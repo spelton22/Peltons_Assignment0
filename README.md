@@ -1,14 +1,14 @@
 # Assignment0
 
-1. Sophie Pelton,
-   2370862,
-   spelton@chapman.edu,
-   CPSC350-01,
+1. Sophie Pelton --
+   2370862 --
+   spelton@chapman.edu --
+   CPSC350-01 --
    Assignemnt 0
 
-2. assignment0.h
-   assignment0.cpp
-   main.cpp
+2. assignment0.h --
+   assignment0.cpp --
+   main.cpp --
    Makefile
 
 3. no known compile or runtime errors
